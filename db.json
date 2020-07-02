@@ -16,28 +16,28 @@
       {
         "Name": "Weiling's Candy Store",
         "URL": "candy.com",
-        "Logo": "https://amazonpaydiscoveryportal-logos.s3-us-west-2.amazonaws.com/jins.jpg",
+        "Logo": "https://amazonpaydiscoveryportal-logos.s3-us-west-2.amazonaws.com/rene-furterer-usa.png",
         "Tagline": "Candy candy candy",
         "Index": 3
       },
       {
         "Name": "test1",
-        "URL": "https://amazonpaydiscoveryportal-logos.s3-us-west-2.amazonaws.com/rene-furterer-usa.png",
-        "Logo": "test1",
+        "URL": "test1",
+        "Logo": "https://amazonpaydiscoveryportal-logos.s3-us-west-2.amazonaws.com/rene-furterer-usa.png",
         "Tagline": "test1",
         "Index": 4
       },
       {
         "Name": "test2",
-        "URL": "https://amazonpaydiscoveryportal-logos.s3-us-west-2.amazonaws.com/society6.png",
-        "Logo": "test2",
+        "URL": "test2",
+        "Logo": "https://amazonpaydiscoveryportal-logos.s3-us-west-2.amazonaws.com/society6.png",
         "Tagline": "test2",
         "Index": 5
       },
       {
         "Name": "test3",
         "URL": "test3",
-        "Logo": "test3",
+        "Logo": "https://amazonpaydiscoveryportal-logos.s3-us-west-2.amazonaws.com/autonomous.png",
         "Tagline": "test",
         "Index": 6
       }
