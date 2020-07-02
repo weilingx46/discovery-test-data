@@ -1,43 +1,45 @@
-[{
-    "Name": "Reid's Hamm's Store",
-    "URL": "reid.hamms.com",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4L5vdEzWCIqpDAQtmsZcwmXoWoGwc8OAFIA&usqp=CAU",
-    "Tagline": "Hamm's yummy",
-    "Index": 1
-  },
-  {
-    "Name": "Zhiwen's Big Cat Emporium",
-    "URL": "zhiwen.bigcat.com",
-    "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQl4T_nis4P_1Z6nyFDUAk_2nu4hnS8W3ymYQ&usqp=CAU",
-    "Tagline": "Call me Tiger King",
-    "Index": 2
-  },
-  {
-    "Name": "Weiling's Candy Store",
-    "URL": "candy.com",
-    "Logo": "https://i.pinimg.com/originals/35/9c/70/359c7053886974728c659eee24c9f621.jpg",
-    "Tagline": "Candy candy candy",
-    "Index": 3
-  },
-  {
-    "Name": "test1",
-    "URL": "test1",
-    "Logo": "test1",
-    "Tagline": "test1",
-    "Index": 4
-  },
-  {
-    "Name": "test2",
-    "URL": "test2",
-    "Logo": "test2",
-    "Tagline": "test2",
-    "Index": 5
-  },
-  {
-    "Name": "test3",
-    "URL": "test3",
-    "Logo": "test3",
-    "Tagline": "test",
-    "Index": 6
-  }
-]
+{
+    "merchants": [{
+        "Name": "Reid's Hamm's Store",
+        "URL": "reid.hamms.com",
+        "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4L5vdEzWCIqpDAQtmsZcwmXoWoGwc8OAFIA&usqp=CAU",
+        "Tagline": "Hamm's yummy",
+        "Index": 1
+      },
+      {
+        "Name": "Zhiwen's Big Cat Emporium",
+        "URL": "zhiwen.bigcat.com",
+        "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQl4T_nis4P_1Z6nyFDUAk_2nu4hnS8W3ymYQ&usqp=CAU",
+        "Tagline": "Call me Tiger King",
+        "Index": 2
+      },
+      {
+        "Name": "Weiling's Candy Store",
+        "URL": "candy.com",
+        "Logo": "https://i.pinimg.com/originals/35/9c/70/359c7053886974728c659eee24c9f621.jpg",
+        "Tagline": "Candy candy candy",
+        "Index": 3
+      },
+      {
+        "Name": "test1",
+        "URL": "test1",
+        "Logo": "test1",
+        "Tagline": "test1",
+        "Index": 4
+      },
+      {
+        "Name": "test2",
+        "URL": "test2",
+        "Logo": "test2",
+        "Tagline": "test2",
+        "Index": 5
+      },
+      {
+        "Name": "test3",
+        "URL": "test3",
+        "Logo": "test3",
+        "Tagline": "test",
+        "Index": 6
+      }
+    ]
+}
